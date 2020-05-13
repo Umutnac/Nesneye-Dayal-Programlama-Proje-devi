@@ -1,0 +1,13 @@
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\bin\Debug\netcoreapp3.1\umut_ndp_restoran.exe
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\bin\Debug\netcoreapp3.1\umut_ndp_restoran.deps.json
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\bin\Debug\netcoreapp3.1\umut_ndp_restoran.runtimeconfig.json
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\bin\Debug\netcoreapp3.1\umut_ndp_restoran.runtimeconfig.dev.json
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\bin\Debug\netcoreapp3.1\umut_ndp_restoran.dll
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\bin\Debug\netcoreapp3.1\umut_ndp_restoran.pdb
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\obj\Debug\netcoreapp3.1\umut_ndp_restoran.csprojAssemblyReference.cache
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\obj\Debug\netcoreapp3.1\umut_ndp_restoran.csproj.CoreCompileInputs.cache
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\obj\Debug\netcoreapp3.1\umut_ndp_restoran.AssemblyInfoInputs.cache
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\obj\Debug\netcoreapp3.1\umut_ndp_restoran.AssemblyInfo.cs
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\obj\Debug\netcoreapp3.1\umut_ndp_restoran.dll
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\obj\Debug\netcoreapp3.1\umut_ndp_restoran.pdb
+C:\Users\abkucuk\source\repos\umut_ndp_restoran\umut_ndp_restoran\obj\Debug\netcoreapp3.1\umut_ndp_restoran.genruntimeconfig.cache
